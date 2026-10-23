@@ -93,7 +93,7 @@ I'm **Sreekanth Balireddi**, a **QA Engineer** with **1 year of experience** at 
 | Project | Description |
 |--------|-------------|
 | [Anaytics Dashboard CRUD Operations](https://github.com/sreejobtrails/Xactly-Anaytics-Dashboard-CRUD-Operations) | **Automated Analytics Dashboard Testing Framework** — Java, TestNG, Maven; E2E CRUD validation, modular framework design, XML-based TestNG suites, shell scripts for env setup |
-| [Sreekanth-MCA-Project](https://github.com/sreejobtrails/Sreekanth-MCA-Project) | MCA academic project |
+| [Sreekanth-MCA-Project](https://github.com/sreejobtrails/MCA-Project) | MCA academic project |
 | [Front-end-Project](https://github.com/sreejobtrails/Front-end-Project) | Front-end development work |
 
 ---
